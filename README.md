@@ -37,7 +37,7 @@ Connection: keep-alive
 }
 ```
 
-## Avaible methods
+## Available methods
 ---
 * POST /api
     * gbix.hello  
