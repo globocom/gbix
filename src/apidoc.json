@@ -1,0 +1,17 @@
+{
+  "name": "GBIX Docs",
+  "version": "1.2.2",
+  "description": "A API da Globo.com para o Zabbix.",
+  "header": {
+    "filename": "header.md"
+  },
+  "footer": {
+    "title": "Referências",
+    "filename": "footer.md"
+  },
+  "template": {
+        "withCompare": true,
+        "withGenerator": true,
+        "forceLanguage": "pt_br"
+  }
+}
